@@ -77,7 +77,7 @@ We analyzed the Airbnb dataset to extract overall details and described its stat
 # Data Cleaning 
 
 
-•	Handle missing data:
+->	Handle missing data:
 
 
 price, neighborhood, beds, latitude, longitude, room_type, minimum_nights, number_of_reviews, last_review, reviews_per_month, 
@@ -100,14 +100,14 @@ dropping all missing values rows and Dealing with Duplicate Rows.
 
 
 
-•	Fix data types: Converted datatypes like id and host_id to a float64 object.
+->	Fix data types: Converted datatypes like id and host_id to a float64 object.
 
 
 ![image](https://github.com/user-attachments/assets/bbabec96-c2a8-4bff-9bd9-074a0fc53d94)
 
 
 
-•	Locality and Review Dependency:
+->	Locality and Review Dependency:
 
 
  Analyse no_of_reviews, price, and neighbourhood_group for showing locality and Review Dependency using Scatterplot.
@@ -116,7 +116,7 @@ dropping all missing values rows and Dealing with Duplicate Rows.
 
  ![image](https://github.com/user-attachments/assets/1c4d8cf0-abc7-4bd3-b049-073f61467da8)
 
-•	Neighborhood group insights:
+->	Neighborhood group insights:
     o	Analyzed price variations by boroughs.
     
     o	Manhattan had the highest average prices using bar plots.
@@ -125,25 +125,25 @@ dropping all missing values rows and Dealing with Duplicate Rows.
 ![image](https://github.com/user-attachments/assets/cd4a0298-386e-4e8b-93ce-3338836181c4)
 
 
-•	Availability trends:
+->	Availability trends:
     o	Used heatmaps to show correlations among price, availability_365, number_of_reviews, beds, latitude ,longitude, minimum_nights and reviews_per_month.
 
 ![image](https://github.com/user-attachments/assets/4af77632-17f9-44b1-a329-e3d88c029381)
 
 
-•	Price distribution:
-  o	Used histograms to show the distribution of prices.
-  o	Majority of the listings were priced between $0 - $1500.
+->	Price distribution:
+   o	Used histograms to show the distribution of prices.
+   o	Majority of the listings were priced between $0 - $1500.
 
 ![image](https://github.com/user-attachments/assets/facac8a7-cb57-47dc-a50b-69045186ed05)
 
 
-•	Geographical Distribution of Airbnb Listing:
+->	Geographical Distribution of Airbnb Listing:
     o	Analysed distribution with multiple listings using scatterplot to identify listings like Private Room, Entire Home/Apt, Hotel Room, and Shared Room.
 
 ![image](https://github.com/user-attachments/assets/5f089489-b8b8-4537-b281-51db1bfd630d)
 
-•	Review or Host behavior:
+->	Review or Host behavior:
     o	Used pair plots to show relationships between a number of reviews, price, and availability.
 
 ![image](https://github.com/user-attachments/assets/0cedee63-1576-4fd8-9050-b4ca6093f034)
