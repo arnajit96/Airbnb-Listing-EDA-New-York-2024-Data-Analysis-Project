@@ -151,9 +151,17 @@ dropping all missing values rows and Dealing with Duplicate Rows.
 # Data Visualization
 
   •	Pairplot: To see correlations among price, availability, and number of reviews.
+
+  
   •	Heatmap: Showing correlations among numerical features.
+
+  
   •	Histograms and Boxplots: To detect outliers in price.
+
+  
   •	Bar Charts: Displaying room types and neighborhood group distributions.
+
+  
 
 # Key Findings and Insights
 1.	Price Trends:
@@ -182,14 +190,14 @@ dropping all missing values rows and Dealing with Duplicate Rows.
 
 # Recommendations
 
-•	For Guests:
+->	For Guests:
 
     o	Look for listings with high availability and good reviews for a better experience.
     
     o	Private rooms in Brooklyn offer affordable stays compared to Manhattan.
 
     
-•	For Hosts:
+->	For Hosts:
 
     o	Improve availability and review response rates to attract more bookings.
 
