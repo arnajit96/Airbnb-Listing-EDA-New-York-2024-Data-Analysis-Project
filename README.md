@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/1748626e-039e-49bc-a590-b14353acd70a)
 
 # Project Overview 
-The project involves performing an Exploratory Data Analysis (EDA) on New York Airbnb data to derive insights into rental trends and patterns. Pandas, NumPy, Matplotlib, and Seaborn are the primary libraries used for cleaning, analyzing, and visualizing data.
+The project involves performing an Exploratory Data Analysis (EDA) on New York Airbnb data to derive insights into rental trends and patterns. Pandas, NumPy, Matplotlib, and Seaborn are the primary libraries used for cleaning, analyzing, and visualizing data with Google Colaboratory Editor.
 
 # Objective
 The goal of this project is to:
